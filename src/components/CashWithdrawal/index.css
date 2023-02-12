@@ -1,0 +1,103 @@
+/* Write your CSS here */
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15%;
+  height: 100%;
+  width: 100%;
+}
+.card-container {
+  height: 60%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #150b3e;
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+  margin-right: 8 px;
+  margin-bottom: 3px;
+}
+.span {
+  margin-bottom: 120px;
+  text-align: center;
+}
+.button-1 {
+  background-color: #c7d2fe;
+  border-radius: 2500px;
+  color: #7c3aed;
+  padding: 55px;
+  font-size: 30px;
+  margin-right: 20px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.customer-name {
+  padding-top: 15px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'roboto';
+  color: #c4c4c4;
+  padding-left: 30px;
+}
+
+.container-2 {
+  margin-right: 8px;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.your-balance {
+  color: #585076;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+
+.amount-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.amount {
+  color: #d4d2db;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'roboto';
+  margin-bottom: 3px;
+}
+.in-rupees {
+  color: #585076;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.withdraw {
+  color: #d4d2db;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'roboto';
+  margin-bottom: 3px;
+}
+.choose-sum {
+  color: #585076;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.subbu {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}

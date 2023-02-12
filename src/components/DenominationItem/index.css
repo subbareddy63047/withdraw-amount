@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.amount-button-1 {
+  width: 120%;
+  border-radius: 3px;
+  padding: 10px;
+  border-width: 2px;
+  border-color: #d4d2db;
+  background-color: #585076;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'roboto';
+  color: #d4d2db;
+  margin-right: 10px;
+}
+.list-1 {
+  margin: 10px;
+  width: 450px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
